@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+xgboost
+flask
+scikit-learn == 1.5.1
